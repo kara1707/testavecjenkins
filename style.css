@@ -1,0 +1,7 @@
+.main{
+	display: flex; /*par défaut position horizontale*/
+	/*flex-direction: row;/* row-reverse; /*d'avoir le 1 er elmt qui était devant en arriere*/
+	/*flex-direction: column; */ /*column-reverse*/ 
+	flex-direction: row;
+	flex-wrap: wrap;
+}
